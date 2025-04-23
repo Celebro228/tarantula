@@ -342,16 +342,16 @@ dependencies = [
 
 [[package]]
 name = "tarantula"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "tgr",
 ]
 
 [[package]]
 name = "tgr"
-version = "3.0.2"
+version = "3.0.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6d945932fa7b124157856fe421bc65d5f7a8c61fa3a124f82e7b37e3d7e161a1"
+checksum = "4909a86df47a3e6b10b1031e1eb4e452d2dd0be6c6dff7f05e5cf031d33bef6b"
 dependencies = [
  "glam",
  "image",
